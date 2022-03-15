@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 - <a href="#en">See my profile in English 🇺🇸</a>
+### Olá! 👋 - Veja meu perfil em Português 🇧🇷
+
+<div id="en">
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-agnelo)](https://github.com/lucas-agnelo/github-readme-stats)
+</div>
 
 <!--
 **lucas-agnelo/lucas-agnelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
