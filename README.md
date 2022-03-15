@@ -1,9 +1,10 @@
 # Hi there! 👋 / Olá! 👋
-<a href="#en">See my profile in English 🇺🇸</a><br>
-<a href="#pt-br">Veja meu perfil em Português 🇧🇷</a>
+<a href="#en">See the "About me" in English 🇺🇸</a><br>
+<a href="#pt-br">Veja o "Sobre Mim" em Português 🇧🇷</a>
 <div>
   <img height:180em src="https://github-readme-stats.vercel.app/api?username=lucas-agnelo&count_private=true&show_icons=true&theme=tokyonight">
 </div>
+## Languages ​​I'm studying / Linguagens que estou aprendendo
 <div style="display: inline_block"><br>
   <img style="text-align: center;" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img style="text-align: center;"  alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -22,6 +23,8 @@
   </ul>
 </div>
 <br id="en">
+<br>
+<br>
 <br>
 <br>
 <div id="pt-br">
