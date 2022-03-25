@@ -3,6 +3,7 @@
 <a href="#pt-br">Veja o "Sobre Mim" em Português 🇧🇷</a>
 <div>
   <img height:180em src="https://github-readme-stats.vercel.app/api?username=lucas-agnelo&count_private=true&show_icons=true&theme=tokyonight">
+  <img style="width: 18em;" src="https://github.com/lucas-agnelo/lucas-agnelo/blob/main/programming.gif">
 </div>
 <h2>Learning... / Aprendendo...</h2>
 <div style="display: inline_block">
