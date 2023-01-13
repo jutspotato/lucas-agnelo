@@ -14,7 +14,7 @@
   <h2 id="en">About Me</h2>
   <p>I'm a self-taught programming student looking to learn as much as possible, contribute to the community and grow in the IT business.</p>
   <ul>
-    <li>📚 I’m currently learning HTML5, CSS3 and Javascript</li>
+    <li>📚 I’m currently learning HTML5, CSS3</li>
     <li>🧑🏻‍💻 I’m interested in programming and ethical hacking</li>
     <li>📫 How to reach me: lucas.agnelo18@gmail.com</li>
   </ul>
