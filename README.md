@@ -23,7 +23,7 @@
   <h2>Sobre Mim</h2>
   <p>Eu sou um estudante autodidata de programação em busca de aprender o máximo possível, contribuir com a comunidade e crescer no ramo de TI.</p>
   <ul>
-    <li>📚 Atualmente estou aprendendo HTML5, CSS3 e Javascript</li>
+    <li>📚 Atualmente estou aprendendo HTML5, CSS3</li>
     <li>🧑🏻‍💻 Estou interessado em programação e hacking ético</li>
     <li>📫 Como me contatar: lucas.agnelo18@gmail.com</li>
   </ul>
